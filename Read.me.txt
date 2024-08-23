@@ -1,0 +1,21 @@
+Here's a simple and clear README for the Eye-Tracking Mouse Control System project:
+
+                   Installation
+
+1.Clone the Repository:
+git clone https://github.com/Peter-sonn/eye-tracking-mouse-control.git
+
+2.Navigate to the Project Directory:
+cd eye-tracking-mouse-control
+
+3.Install Required Packages:
+Ensure you have Python installed, then run: pip install -r requirements.txt
+
+
+                     Usage
+
+1.Run the Main Script:
+python eye_tracking_mouse_control.py
+
+
+Thank me later 👍👍
